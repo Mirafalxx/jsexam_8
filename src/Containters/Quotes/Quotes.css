@@ -1,0 +1,13 @@
+/* .QuoteList {
+  display: flex;
+  max-width: 1500px;
+  border: 1px solid red;
+  justify-content: space-around;
+} */
+.selectCategoryButton {
+  color: #000;
+  font-size: 20px;
+}
+.selectCategoryButton:hover {
+  color: #4a69ff;
+}
